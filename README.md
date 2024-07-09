@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rusutudorrr
 - 👀 I’m interested in mastering python and riding my bike every now and then.
-- 🌱 I’m currently learning Computer Science 50 at edx
+- 🌱 I’ve completed Computer Science 50 at Harvard EDx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
